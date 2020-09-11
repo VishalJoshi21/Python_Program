@@ -1,4 +1,0 @@
-vishal 17/10/19 101 python 
-joshi 15/10/19 102 java 
-harsh 17/10/19 103 html 
-vhjoshi 15/10/19 104 maths 
